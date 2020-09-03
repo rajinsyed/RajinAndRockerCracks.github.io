@@ -1,0 +1,11 @@
+Package: com.yourepo.rajin.safeshutdown
+Name: SafeShutdown
+Version: 1.60
+Architecture: iphoneos-arm
+Description: Avoid re-jailbreaking when your iDevice have not battery.
+Author: Rajin <syedrajin905@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11)
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Maintainer: Rajin <syedrajin905@gmail.com>
+

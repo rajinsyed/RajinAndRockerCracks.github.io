@@ -1,0 +1,8 @@
+#!/bin/sh
+echo
+echo "Done!"
+echo "Cracked by rajin"
+echo "Follow me on Twitter - @rajinhacker"
+echo "Enjoy ;)"
+echo
+exit 0
