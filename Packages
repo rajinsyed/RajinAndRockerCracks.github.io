@@ -1,5 +1,5 @@
 
-Package: com.megadev.batteryramp
+Package: batteryramp
 Name: BatteryRamp
 Depends: mobilesubstrate,ws.hbang.common,preferenceloader
 Architecture: iphoneos-arm
