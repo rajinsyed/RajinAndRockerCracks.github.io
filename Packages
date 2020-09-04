@@ -8,7 +8,7 @@ Author: Rajin <syedrajin905@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11)
 Maintainer: Rajin <syedrajin905@gmail.com>
-Size: 9314616
-MD5sum: b4a77d6da77ba41ed43f90ae8d012e56
+Size: 9314746
+MD5sum: 15285e2aa054243929861f8810fc83ea
 Filename: ./debs/SafeShutDown.deb
 Depiction: https://rajinsyed.github.io/RajinAndRockerCracks.github.io/depictions/?p=SafeShutDown
