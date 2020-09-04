@@ -5,11 +5,11 @@ Version: 1.60
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11)
-Installed-Size: 9314674
+Installed-Size: 9314
 Author: Rajin <syedrajin905@gmail.com>
 Maintainer: Rajin <syedrajin905@gmail.com>
 Description: Avoid re-jailbreaking when your iDevice have not battery.
-Size: 9314674
-MD5sum: e017dac9cb6c3b883600c44801cd3e20
+Size: 9314746
+MD5sum: 15285e2aa054243929861f8810fc83ea
 Filename: ./debs/SafeShutDown.deb
 Depiction: https://rajinsyed.github.io/RajinAndRockerCracks.github.io/depictions/?p=SafeShutDown
