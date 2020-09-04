@@ -1,0 +1,10 @@
+Package: com.megadev.batteryramp
+Name: BatteryRamp
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader
+Architecture: iphoneos-arm
+Description: Place your iPhone in a limited state, To decrease charge times
+Maintainer: MegaDev
+Author: MegaDev
+Section: Tweaks
+Version: 1.3.0
+Installed-Size: 664
